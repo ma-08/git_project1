@@ -1,6 +1,6 @@
 def main():
     print('My first git program')
-    print('new string')
+    print('And I change it every day')
     print('')
 
 
